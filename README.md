@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+### Tips
+- `rails routes` - to see all app routes
