@@ -25,3 +25,6 @@ Things you may want to cover:
 
 ### Tips
 - `rails routes` - to see all app routes
+- `password_digest:string` - for saving decoded password in db
+- `rails c` - to open interacting in console with db, then `<model_name (User)>` -> User.all (for example) 
+- `rails db:migrate:redo` - drop the table and create a db table again
